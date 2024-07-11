@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="smallSize." parent="Theme.AppCompat">
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="mediumSize."  parent="Theme.AppCompat">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="EditTextSize."  parent="Theme.AppCompat">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="LargeSize.."  parent="Theme.AppCompat">
+        <item name="android:textSize">26sp</item>
+    </style>
+
+</resources>
